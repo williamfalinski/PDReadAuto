@@ -47,7 +47,6 @@ def read_file(
         #     print('Não foi possível abrir o arquivo, find_data_csv retornou vazio')
         #     return [(None, pd.DataFrame())]
 
-    # assert df.empty, f"WellbeFiles: read_auto: DataFrame retornou Vazio"
     return [(None, pd.DataFrame())]
 
 
