@@ -3,8 +3,8 @@
 In progress...
 
 Problem:
-Open similar types os files from different sources (csv/txt/xl*) to a Pandas Dataframe without specifying:
-- encoding,
+Open similar files from different sources (csv/txt/xl*) to a Pandas Dataframe without specifying:
+- encoding (kind of),
 - separator,
 - skiprows,
 - engine,
