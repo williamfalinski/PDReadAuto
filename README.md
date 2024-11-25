@@ -3,7 +3,7 @@
 In progress...
 
 Problem:
-Open similar files from different sources (csv/txt/xl*) to a Pandas Dataframe without specifying:
+Open similar files from different sources (csv/txt/xl*) into a Pandas Dataframe without specifying:
 - encoding (kind of),
 - separator,
 - skiprows,
